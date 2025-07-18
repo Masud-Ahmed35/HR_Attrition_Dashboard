@@ -1,4 +1,4 @@
-#📊 HR Attrition Dashboard
+📊 HR Attrition Dashboard
 
 This HR Attrition Dashboard provides a comprehensive visual analysis of employee attrition data within an organization. Built using Microsoft Excel, the dashboard is designed to help HR teams and decision-makers understand key trends, identify problem areas, and take data-driven actions to improve employee retention.
 
